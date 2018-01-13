@@ -1,0 +1,15 @@
+{
+  "name": "cowlick-template-js",
+  "version": "0.0.1",
+  "description": "cowlick template project",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "author": "pocketberserker",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cowlick/cowlick-template-js.git"
+  }
+}
